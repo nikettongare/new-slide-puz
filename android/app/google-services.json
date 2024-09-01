@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "891561086043",
+    "project_id": "cryptic-puzzle",
+    "storage_bucket": "cryptic-puzzle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891561086043:android:2969299bcdcbf63fcf837e",
+        "android_client_info": {
+          "package_name": "com.glowingmercury.cryptopuz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891561086043-igvq72nd8a0c7hcpaho0l8ck3dqeu0o5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glowingmercury.cryptopuz",
+            "certificate_hash": "3b96dd2b7193274104e4106d40ac42616f287e47"
+          }
+        },
+        {
+          "client_id": "891561086043-876c4ruasdlm8rneeukgdnvnen6tvrdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoins3NmCSCECFcDp1QevqUVSmvIob5ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891561086043-876c4ruasdlm8rneeukgdnvnen6tvrdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891561086043:android:cfcd9753d4dd9a7fcf837e",
+        "android_client_info": {
+          "package_name": "com.useapi.slide_puzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891561086043-876c4ruasdlm8rneeukgdnvnen6tvrdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoins3NmCSCECFcDp1QevqUVSmvIob5ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891561086043-876c4ruasdlm8rneeukgdnvnen6tvrdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
